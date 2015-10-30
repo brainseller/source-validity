@@ -5,31 +5,31 @@ The inspiration came from [this article by theconversation.com](https://theconve
 
 ## Reverse Image Search
 
-[Google Images](https://www.google.com/imghp)
-[TinEye](http://tineye.com)
+- [Google Images](https://www.google.com/imghp)
+- [TinEye](http://tineye.com)
 
 ## YouTube Video Data Check
 
-[Amnesty Internationals YouTube DataViewer](http://www.amnestyusa.org/citizenevidence/)
+- [Amnesty Internationals YouTube DataViewer](http://www.amnestyusa.org/citizenevidence/)
 
 ## EXIF Data Check
 
-[Jeffrey's Exif Viewer](http://regex.info/exif.cgi)
-[metapicz](http://metapicz.com/)
-[Online Exif Viewer](http://exif-viewer.com)
+- [Jeffrey's Exif Viewer](http://regex.info/exif.cgi)
+- [metapicz](http://metapicz.com/)
+- [Online Exif Viewer](http://exif-viewer.com)
 
 
 ## Manipulation Check
 
-[FotoForensics](http://fotoforensics.com/)
+- [FotoForensics](http://fotoforensics.com/)
 
 ## Weather for that Time Check
 
-[Wolfram Alpha](http://wolframalpha.com/)
+- [Wolfram Alpha](http://wolframalpha.com/)
 
 ## Location Check
 
-[Google Street View](http://www.google.com/maps/streetview/)
-[Google Earth](https://www.google.com/earth/)
-[Wikimapia](http://wikimapia.org/)
+- [Google Street View](http://www.google.com/maps/streetview/)
+- [Google Earth](https://www.google.com/earth/)
+- [Wikimapia](http://wikimapia.org/)
 
